@@ -39,10 +39,10 @@ const skills = [
     icon: <i class="devicon-express-original colored"></i>,
     skill: 'Express JS',
   },
-  {
-    icon: <i class="devicon-nginx-original colored"></i>,
-    skill: "Nginx"
-  },
+  // {
+  //   icon: <i class="devicon-nginx-original colored"></i>,
+  //   skill: "Nginx"
+  // },
   {
     icon: <i class="devicon-react-original colored"></i>,
     skill: 'React',
@@ -51,10 +51,10 @@ const skills = [
     icon: <i class="devicon-redux-original colored"></i>,
     skill: 'Redux',
   },
-  {
-    icon: <i class="devicon-storybook-plain colored"></i>,
-    skill: 'Storybook',
-  },
+  // {
+  //   icon: <i class="devicon-storybook-plain colored"></i>,
+  //   skill: 'Storybook',
+  // },
   {
     icon: <i class="devicon-bootstrap-plain colored"></i>,
     skill: 'Bootstrap',
@@ -91,10 +91,10 @@ const skills = [
   //   img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
   //   skill: 'Python',
   // },
-  {
-    img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg',
-    skill: 'C',
-  },
+  // {
+  //   img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg',
+  //   skill: 'C',
+  // },
   {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
     skill: 'JavaScript',
@@ -111,13 +111,13 @@ const skills = [
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg',
     skill: 'MySQL',
   },
-  {
-    img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg',
-    skill: 'PostgreSQL',
-  },
+  // {
+  //   img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg',
+  //   skill: 'PostgreSQL',
+  // },
 
-  {
-    img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg',
-    skill: 'Docker',
-  },
+  // {
+  //   img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg',
+  //   skill: 'Docker',
+  // },
 ];
