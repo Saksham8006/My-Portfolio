@@ -110,7 +110,7 @@ const projects = [
             className="h-full"
           ></img>
         ),
-        link: "https://entsorg-meister.de/"
+        link: "https://lp.wasniper.com/"
       },
     
     ]
